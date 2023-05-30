@@ -4,7 +4,8 @@ Projeto 1 do curso [Criação de Apps Android e iOS com Flutter](https://www.ude
 
 Simples contador de pessoas.
 
-# Revisão - 2021
-- Ajustando código para Flutter 2.0 e suporte web  
+# Revisão - 2023
+- Implementando novo exemplo do contador em Flutter 3.0
+- Suporte mobile, web e linux
 
-<img src="./Screenshot_1560120664.png" width="200">
+<img src="./Screenshot_1685474477.png" width="200">
